@@ -1,0 +1,1 @@
+Please add dataset to the CUHK03 folder. feature_data can be in JSON or .npy format.

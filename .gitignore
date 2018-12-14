@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+.vscode
+# custom
+
+Practice\ files/
+assets/
+
+dataset/CUHK03/*
+!dataset/CUHK03/please_add_files.txt
